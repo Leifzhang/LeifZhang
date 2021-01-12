@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### 有没有想来搬砖的朋友 请联系我 邮箱在边上哦
 <!--
 **Leifzhang/LeifZhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,3 +15,5 @@ Here are some ideas to get you started:
 -->
 
 ![LeifZhang's github stats](https://github-readme-stats.vercel.app/api?username=Leifzhang&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leifzhang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
