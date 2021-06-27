@@ -1,4 +1,4 @@
-### 有没有想来搬砖的朋友 请联系我 邮箱在边上哦
+### 有没有想来搬砖的朋友 请联系我 邮箱在边上哦 wx:15801995859
 <!--
 **Leifzhang/LeifZhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
