@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 # 乞讨模式
 
-![crash_info](WechatIMG107.jpeg）
+ ![](WechatIMG107.jpeg）
 
-![crash_info](WechatIMG108.jpeg）
+ ![](WechatIMG108.jpeg）
