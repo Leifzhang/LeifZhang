@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 # 乞讨模式
 
-![WechatIMG107.jpeg](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fccfdf850ccd42068f67d88b35e4a9db~tplv-k3u1fbpfcp-watermark.image =100)
+![WechatIMG107.jpeg](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fccfdf850ccd42068f67d88b35e4a9db~tplv-k3u1fbpfcp-watermark.image){:height="200px" width="200px"}
 
-![WechatIMG108.jpeg](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/860d7e4c75b1466bab8058f1e7f53274~tplv-k3u1fbpfcp-watermark.image =100)
+![WechatIMG108.jpeg](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/860d7e4c75b1466bab8058f1e7f53274~tplv-k3u1fbpfcp-watermark.image){:height="200px" width="200px"}
+
