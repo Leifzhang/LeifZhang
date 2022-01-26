@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# 开始找工作
+
+有啥坑位推荐的请联系我 15801995859
+
 ![LeifZhang's github stats](https://github-readme-stats.vercel.app/api?username=Leifzhang&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leifzhang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
