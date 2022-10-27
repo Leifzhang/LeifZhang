@@ -21,6 +21,12 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leifzhang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/daweedkob/count.svg" />
+</p>
+
+
 # 乞讨模式
 
 <img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fccfdf850ccd42068f67d88b35e4a9db~tplv-k3u1fbpfcp-watermark.image" width="300"/>
